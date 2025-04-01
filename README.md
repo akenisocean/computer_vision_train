@@ -1,0 +1,2 @@
+# yolo11_crowd_human_train
+基于yolo11的人群检测数据训练
