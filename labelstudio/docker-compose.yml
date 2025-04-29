@@ -1,0 +1,21 @@
+version: "3.8"
+
+services:
+  labelstudio:
+    container_name: labelstudio
+    image: heartexlabs/label-studio:1.16.0
+    environment:
+      # specify these parameters if you want to use basic auth for the model server
+      - LABEL_STUDIO_LOCAL_FILES_SERVING_ENABLED=true
+      - LABEL_STUDIO_LOCAL_FILES_DOCUMENT_ROOT=/label-studio/data/images
+    ports:
+      - 8080:8080
+    volumes:
+      - "./labelstudio/data:/label-studio/data/"
+    networks:
+      - labelstudio
+
+networks:
+  labelstudio:
+    external: true
+      
