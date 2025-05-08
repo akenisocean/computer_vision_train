@@ -1,0 +1,369 @@
+{
+  "id": 1,
+  "result": [
+    {
+      "original_width": 3346,
+      "original_height": 1872,
+      "image_rotation": 0,
+      "value": {
+        "x": 56.328187949327656,
+        "y": 62.609022310783004,
+        "width": 1.5351587854696191,
+        "height": 9.146441054453987,
+        "rotation": 0,
+        "rectanglelabels": [
+          "person"
+        ]
+      },
+      "id": "Uq1TVGxOCO",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3346,
+      "original_height": 1872,
+      "image_rotation": 0,
+      "value": {
+        "x": 41.48831968978796,
+        "y": 62.21703197987784,
+        "width": 1.7544671833938497,
+        "height": 9.930421716264334,
+        "rotation": 0,
+        "rectanglelabels": [
+          "person"
+        ]
+      },
+      "id": "CQLKzqXoi2",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3346,
+      "original_height": 1872,
+      "image_rotation": 0,
+      "value": {
+        "x": 24.674675848930182,
+        "y": 85.0831346160128,
+        "width": 3.216523169555405,
+        "height": 6.663835625387932,
+        "rotation": 0,
+        "rectanglelabels": [
+          "person"
+        ]
+      },
+      "id": "fnVPfxCbLn",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3346,
+      "original_height": 1872,
+      "image_rotation": 0,
+      "value": {
+        "x": 27.598787821253275,
+        "y": 76.328683892464,
+        "width": 3.1434203702473233,
+        "height": 11.10639270897984,
+        "rotation": 0,
+        "rectanglelabels": [
+          "person"
+        ]
+      },
+      "id": "q6GKCdcv0x",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3346,
+      "original_height": 1872,
+      "image_rotation": 0,
+      "value": {
+        "x": 43.973814866262586,
+        "y": 61.17172443079738,
+        "width": 1.5351587854696263,
+        "height": 9.277104498089031,
+        "rotation": 0,
+        "rectanglelabels": [
+          "person"
+        ]
+      },
+      "id": "QTnxhsIAcn",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3346,
+      "original_height": 1872,
+      "image_rotation": 0,
+      "value": {
+        "x": 36.59043213614678,
+        "y": 69.40352137980597,
+        "width": 2.339289577858473,
+        "height": 8.493123836278713,
+        "rotation": 0,
+        "rectanglelabels": [
+          "person"
+        ]
+      },
+      "id": "j2YTrZVM42",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3346,
+      "original_height": 1872,
+      "image_rotation": 0,
+      "value": {
+        "x": 32.27736697697022,
+        "y": 69.14219449253586,
+        "width": 2.193083979242317,
+        "height": 8.36246039264364,
+        "rotation": 0,
+        "rectanglelabels": [
+          "person"
+        ]
+      },
+      "id": "5mfK9xjfDq",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3346,
+      "original_height": 1872,
+      "image_rotation": 0,
+      "value": {
+        "x": 30.084282997727907,
+        "y": 83.64583673602718,
+        "width": 2.631700775090774,
+        "height": 5.749191519942499,
+        "rotation": 0,
+        "rectanglelabels": [
+          "person"
+        ]
+      },
+      "id": "f85PzTYip-",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3346,
+      "original_height": 1872,
+      "image_rotation": 0,
+      "value": {
+        "x": 28.987741008106738,
+        "y": 85.99777872145825,
+        "width": 3.2165231695554035,
+        "height": 5.2265377454022826,
+        "rotation": 0,
+        "rectanglelabels": [
+          "person"
+        ]
+      },
+      "id": "V5C3VwlCX-",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3346,
+      "original_height": 1872,
+      "image_rotation": 0,
+      "value": {
+        "x": 45.801384848964524,
+        "y": 73.45408813249273,
+        "width": 3.0703175709392454,
+        "height": 14.895632574396501,
+        "rotation": 0,
+        "rectanglelabels": [
+          "person"
+        ]
+      },
+      "id": "2yaO9nNonA",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3346,
+      "original_height": 1872,
+      "image_rotation": 0,
+      "value": {
+        "x": 56.328187949327656,
+        "y": 74.89138601247835,
+        "width": 2.851009173015008,
+        "height": 11.498383039885027,
+        "rotation": 0,
+        "rectanglelabels": [
+          "person"
+        ]
+      },
+      "id": "fB1FZy8_DR",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3346,
+      "original_height": 1872,
+      "image_rotation": 0,
+      "value": {
+        "x": 59.83712231611543,
+        "y": 85.21379805964784,
+        "width": 2.9972147716311,
+        "height": 6.0105184072126265,
+        "rotation": 0,
+        "rectanglelabels": [
+          "person"
+        ]
+      },
+      "id": "jp-RstJxNV",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3346,
+      "original_height": 1872,
+      "image_rotation": 0,
+      "value": {
+        "x": 66.56257985245847,
+        "y": 72.40878058341228,
+        "width": 3.9475511626361737,
+        "height": 13.588998138045909,
+        "rotation": 0,
+        "rectanglelabels": [
+          "person"
+        ]
+      },
+      "id": "OvLNXCBHqV",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3346,
+      "original_height": 1872,
+      "image_rotation": 0,
+      "value": {
+        "x": 68.90186943031696,
+        "y": 85.47512494691799,
+        "width": 3.8744483633280904,
+        "height": 6.141181850847708,
+        "rotation": 0,
+        "rectanglelabels": [
+          "person"
+        ]
+      },
+      "id": "gO05dC9P4R",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3346,
+      "original_height": 1872,
+      "image_rotation": 0,
+      "value": {
+        "x": 75.91973816389238,
+        "y": 38.0442949073923,
+        "width": 1.2427475882373074,
+        "height": 6.2718452944827305,
+        "rotation": 0,
+        "rectanglelabels": [
+          "person"
+        ]
+      },
+      "id": "XTuga08fyJ",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 3346,
+      "original_height": 1872,
+      "image_rotation": 0,
+      "value": {
+        "x": 11.182019077839042,
+        "y": 7.447750955476437,
+        "width": 88.72530613700901,
+        "height": 62.399242152026666,
+        "rotation": 0,
+        "rectanglelabels": [
+          "person"
+        ]
+      },
+      "id": "jWa-1bJS8w",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "created_username": " ddd@gmail.com, 1",
+  "created_ago": "1\u00a0week, 3\u00a0days",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "ddd@gmail.com"
+  },
+  "task": {
+    "id": 1,
+    "data": {
+      "img": "/data/upload/1/16d005da-crowd_human_1.png"
+    },
+    "meta": {},
+    "created_at": "2025-04-03T08:35:32.545219Z",
+    "updated_at": "2025-04-03T14:09:03.544801Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 1,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 1,
+    "updated_by": 1,
+    "file_upload": 1,
+    "comment_authors": []
+  },
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2025-04-03T14:08:45.664548Z",
+  "updated_at": "2025-04-03T14:09:03.516252Z",
+  "draft_created_at": "2025-04-03T14:04:07.742303Z",
+  "lead_time": 338.34,
+  "import_id": null,
+  "last_action": null,
+  "bulk_created": false,
+  "project": 1,
+  "updated_by": 1,
+  "parent_prediction": null,
+  "parent_annotation": null,
+  "last_created_by": null
+}
